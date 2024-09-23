@@ -1,4 +1,4 @@
-![logo](<img src="https://github.com/shivanibiroriya21/shivani-biroriya-/blob/main/images.jpe" style="width: 500px;">)
+
  
 <h1 align="center">Hi 👋, I'm Shivani Biroriya</h1>
 <h3 align="center">A MCA student exploring the depths of cybersecurity and ethical hacking ,currently working with Java.</h3>
